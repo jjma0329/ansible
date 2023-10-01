@@ -1,0 +1,2 @@
+[linux]
+server1 ansible_host=45.55.180.55 ansible_connection=ssh ansible_user=jeff ansible_ssh_pass=ChtJa9BUjsCXUMfAuAGF
